@@ -103,8 +103,14 @@
         <mxCell id="Y-JcToE6ypHZ2vQuAG8e-38" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failed;" vertex="1" parent="cS69eJ1PfC67OjZ1g68_-26">
           <mxGeometry x="192" y="308" width="51" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="Y-JcToE6ypHZ2vQuAG8e-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" edge="1" parent="cS69eJ1PfC67OjZ1g68_-26" source="Y-JcToE6ypHZ2vQuAG8e-39" target="Y-JcToE6ypHZ2vQuAG8e-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y-JcToE6ypHZ2vQuAG8e-39" value="If Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="cS69eJ1PfC67OjZ1g68_-26">
           <mxGeometry x="186.99646706586827" y="357" width="61" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-JcToE6ypHZ2vQuAG8e-51" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.checklist_cost;" vertex="1" parent="cS69eJ1PfC67OjZ1g68_-26">
+          <mxGeometry x="178.49646706586827" y="465" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="cS69eJ1PfC67OjZ1g68_-11" value="" style="group;backgroundOutline=0;comic=0;fontColor=default;strokeColor=default;fontStyle=1;fontSize=12;" parent="cS69eJ1PfC67OjZ1g68_-10" vertex="1" connectable="0">
           <mxGeometry x="44.89" y="2" width="105.88" height="245" as="geometry" />
